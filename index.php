@@ -77,6 +77,8 @@
             echo "<p class='calc_result'>Result = {$value}</p>";
         }
     }
+
+    // тест для новой ветки гита
     ?>
 
 </body>
